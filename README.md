@@ -126,7 +126,7 @@ backend/
 
 ## 👥 Author
 
-Kolli Lokesh Reddy
+T Mahesh Babu 
 
 ## 📝 License
 
